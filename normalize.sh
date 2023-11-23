@@ -1,0 +1,1 @@
+detox -v -r $(pwd)
