@@ -1,1 +1,4 @@
-test
+Le principe est de faire en jeu de plateau un 4x de 3 a 4 joueurs et a chaque fois qu'un joueur interagis avec un autre sur un des X (science, commerce,exploration,militaire) il donne des pions a un autre joueur pour cette categorie (rouge avec son logo pour militaire etc ...).
+
+
+Le but est que quand l'objectif est atteint (condition ou nombrede tour), chaque joueur doivent voter pour le premier joueur ou le deuxieme joueur dont il a le plus de pions quel que soit la categorie.
